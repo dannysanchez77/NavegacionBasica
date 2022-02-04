@@ -28,6 +28,12 @@
         android:layout_height="wrap_content"
         android:text="boton 3"
         android:backgroundTint="#0DD454" />
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""></EditText>
+
 
 
 </LinearLayout>
